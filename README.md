@@ -5,7 +5,7 @@ A compact, reproducible R Markdown workflow for microbiome analysis of different
 
 
 
-## [Link: Rpubs for Microbiome Analysis](https://rpubs.com/BeckBioHub/1339198)
+## [Link: Rpubs for Fundemental Microbiome Analysis](https://rpubs.com/BeckBioHub/1339198)
 
 
 
